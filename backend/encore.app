@@ -1,0 +1,1 @@
+{"id": "hello-world-application-eqqi", "lang": "typescript"}
